@@ -9,3 +9,9 @@ My first Github project as an Industrial Software Engineering student. A space f
  ## My Goal
  To become a skilled software engineer by building projedts.
 
+ ### My Completed Activities
+ -Created my first GitHub repository.
+ -Uploaded my first Python file.
+ -Learned about commits.
+ 
+
